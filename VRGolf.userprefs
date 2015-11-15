@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SocketIO/Scripts/Test/addGravity.cs">
+    <Files>
+      <File FileName="Assets/SocketIO/Scripts/Test/swing.cs" Line="108" Column="1" />
+      <File FileName="Assets/SocketIO/Scripts/Test/clubInit.cs" Line="1" Column="1" />
+      <File FileName="Assets/SocketIO/Scripts/Test/addGravity.cs" Line="31" Column="23" />
+      <File FileName="Assets/SocketIO/Scripts/SocketIO/SocketIOComponent.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
